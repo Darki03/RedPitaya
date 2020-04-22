@@ -5,7 +5,7 @@
 # vivado -mode batch -source red_pitaya_vivado_project_Z10.tcl -tclargs projectname
 ################################################################################
 
-cd prj/$::argv
+cd prj/classic
 
 ################################################################################
 # define paths
